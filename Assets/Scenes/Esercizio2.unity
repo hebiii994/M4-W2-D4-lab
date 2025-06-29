@@ -400,7 +400,7 @@ MonoBehaviour:
   _pushForce: 2.5
   _bulletHolePrefab: {fileID: 2257648057131880387, guid: ca32d1953e166854ea7d1d5cfd1e3df8,
     type: 3}
-  decalSize: 0.1
+  decalSize: 0.2
 --- !u!1 &372632130
 GameObject:
   m_ObjectHideFlags: 0
